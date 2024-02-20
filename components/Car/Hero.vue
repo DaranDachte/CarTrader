@@ -1,4 +1,3 @@
-import type { CarSearchBar } from '#build/components';
 <template>
   <div
     class="relative h-screen w-100 bg-no-repeat bg-cover bg-bottom overflow-auto bg-[url('D:\VueWithUdemi\CarTrader\img\carBg.jpg')]"
